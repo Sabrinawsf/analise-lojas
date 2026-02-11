@@ -32,7 +32,7 @@ Realizar uma análise exploratória de dados (EDA) para:
 ```
 📁 analise-lojas/
 │
-├── analise_lojas.ipynb
+├── AluraStoreBrasil.ipynb
 ├── README.md
 ```
 
