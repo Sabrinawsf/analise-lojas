@@ -49,20 +49,13 @@ Análise das categorias mais vendidas para entender o comportamento do consumido
 ### 🔹 3. Avaliação dos Clientes
 Estudo das notas atribuídas às lojas para avaliar a experiência do cliente.
 
-### 🔹 4. Custo Médio de Frete
+### 🔹 4. Produtos Mais e Menos Vendidos
+Nesta etapa, foram identificados os produtos com maior e menor volume de vendas em cada loja.  
+
+### 🔹 5. Custo Médio de Frete
 Cálculo do valor médio pago por frete em cada loja (considerando que o cliente é responsável pelo pagamento).
 
-### 🔹 5. Análise Geográfica
-Utilização das coordenadas:
-- `lat` (latitude)
-- `lon` (longitude)
-
-Foram gerados:
-- Gráficos de dispersão
-- Mapas de calor (Heatmaps)
-
-Com o objetivo de identificar regiões com maior concentração de vendas.
-
+### 🔹 6. Gráficos
 ---
 
 ## 🌎 Insights Obtidos
